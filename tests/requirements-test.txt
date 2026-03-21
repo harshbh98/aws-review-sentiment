@@ -1,0 +1,4 @@
+pytest>=7.0
+pytest-cov>=4.0
+boto3>=1.26.0
+moto[s3,comprehend]>=4.0
