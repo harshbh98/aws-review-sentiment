@@ -7,7 +7,7 @@ import json
 import sys
 import os
 import pytest
-from unittest.mock import MagicMock, patch, call
+from unittest.mock import MagicMock, patch
 
 # ---------------------------------------------------------------------------
 # Ensure src/ is importable without installing
