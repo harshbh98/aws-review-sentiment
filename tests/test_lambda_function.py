@@ -20,8 +20,8 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
 # ---------------------------------------------------------------------------
 
 SAMPLE_REVIEW = "This product is absolutely amazing! Best purchase I have ever made."
-SAMPLE_KEY    = "reviews/review-001.txt"
-INPUT_BUCKET  = "customer-reviews-raw"
+SAMPLE_KEY = "reviews/review-001.txt"
+INPUT_BUCKET = "customer-reviews-raw"
 OUTPUT_BUCKET = "customer-reviews-sentiment"
 
 MOCK_COMPREHEND_RESPONSE = {

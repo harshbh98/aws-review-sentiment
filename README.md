@@ -1,6 +1,6 @@
 # 🛒 AWS Customer Review Sentiment Analysis Pipeline
 
-[![CI/CD](https://github.com/YOUR_USERNAME/aws-review-sentiment/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/aws-review-sentiment/actions)
+[![CI/CD](https://github.com/harshbh98/aws-review-sentiment/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/aws-review-sentiment/actions)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
 [![Terraform](https://img.shields.io/badge/terraform-1.7-purple.svg)](https://www.terraform.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
